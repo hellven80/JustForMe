@@ -4,9 +4,6 @@ Hi there, this is something that I have been wanting to do for a while now ever 
 Finally here are the dotfiles to my very first rice...
 <br>
 
-![](https://github.com/PippyUrkel/dotfiles/blob/master/assets/exibhit1.png)
-![](https://github.com/PippyUrkel/dotfiles/blob/master/assets/exibhit2.png)
-
 ## What extras am I using ?
 
 - [Fish Shell](https://fishshell.com/)
