@@ -19,8 +19,6 @@ Finally here are the dotfiles to my very first rice...
 
 In order for the given config file to work properly with animations, its recommended you install the [ft-labs-fork](https://github.com/FT-Labs/picom) of picom.
 
-![](https://github.com/PippyUrkel/dotfiles/blob/master/assets/output.gif)
-
 ## Polybar Themes and Custom Scripts
 
 Shamefully copy pasted the configs for the [shades theme of polybar](https://github.com/adi1090x/polybar-themes.git) from [adi1090x](https://github.com/adi1090x) lol.
